@@ -21,6 +21,10 @@
     padding:15px;
     border:2px solid #000000;
 }
+.lightning .meme{
+    margin-top:40px;
+    width:30%;
+}
 .light p:hover{
     background-color:#00000020;
     cursor:pointer;
