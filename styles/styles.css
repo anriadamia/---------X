@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration:none;
+    list-style-type:none;
+}
+.light{
+    width:700px;
+    margin:50px auto;
+  
+}
+
+.lightning img,.lightning p {
+    width:100%;
+    margin:0px auto
+}
+.lightning p{                           
+    width:100px;
+    text-align:center;
+    padding:15px;
+    border:2px solid #000000;
+}
+.light p:hover{
+    background-color:#00000020;
+    cursor:pointer;
+}
